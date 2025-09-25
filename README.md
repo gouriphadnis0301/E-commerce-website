@@ -16,4 +16,6 @@ This is a fully functional **E-Commerce website** built to simulate an online sh
 - **Database:** SQLite / MySQL / JSON (mock data)
 - **Libraries:** Bootstrap, Font Awesome
 
-
+## Team Members
+- Gouri Phadnis https://github.com/gouriphadnis0301
+- Shubham Raghuwanashi https://github.com/ShubhamRaghu03
